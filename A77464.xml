@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe relation of the siege at Newark, as it was delivered to the councel of state at Derby-house, by Lieutenant Col. Bury, whom the Earl of Manchester sent to report. Together with articles of agreement betwixt Prince Rupert and Sir Iohn Meldrum; wherein the perfidious dealings of the enemy is made manifest; who, contrary to the articles, took away their colours, swords and pikes, and plundred the officers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77464</idno>
+            <idno type="STC">Wing B4634</idno>
+            <idno type="STC">Thomason E39_8</idno>
+            <idno type="STC">ESTC R10071</idno>
+            <idno type="EEBO-CITATION">99858792</idno>
+            <idno type="PROQUEST">99858792</idno>
+            <idno type="VID">155062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155062)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E39[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe relation of the siege at Newark, as it was delivered to the councel of state at Derby-house, by Lieutenant Col. Bury, whom the Earl of Manchester sent to report. Together with articles of agreement betwixt Prince Rupert and Sir Iohn Meldrum; wherein the perfidious dealings of the enemy is made manifest; who, contrary to the articles, took away their colours, swords and pikes, and plundred the officers.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>Meldrum, John, Sir, d. 1645.</author>
+                  <author>Bury, Lieutenant Colonel.</author>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 26. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A detailed and official military report.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Newark (Nottinghamshire, England) --  History --  Siege, 1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155062:1"/>
+            <pb facs="tcp:155062:1" rendition="simple:additions"/>
+            <p>A Briefe RELATION OF The ſiege at Newark, As it was delivered To the <hi>COVNCEL</hi> of <hi>STATE</hi> At <hi>Derby-houſe,</hi> by Lievtenant Col. <hi>Bury,</hi> whom the Earl of <hi>Mancheſter</hi> ſent to Report.</p>
+            <p>Together with Articles of Agreement betwixt Prince <hi>Rupert</hi> and Sir <hi>Iohn Meldrum;</hi>
+            </p>
+            <p>Wherein the perfidious dealings of the Enemy i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made manifeſt; who, contrary to the Articles, took away their Colours, Swords and Pikes, and Plundred the Officers.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Peter Cole,</hi> March 26. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155062:2"/>
+            <pb n="3" facs="tcp:155062:2"/>
+            <head>A Briefe RELATION of the Siege at NEVVARK.</head>
+            <head type="sub">Whereas it hath beene Printed thut the Newarkers forced Sir <hi>Iohn Meldrums</hi> Regiment to retreat, and that the Lord <hi>Willowbie</hi> came with his Regiment to their timely releofe, there was nothing done that could colour that Relation.</head>
+            <p>WHen we firſt drew before <hi>Newarke,</hi> Colonell <hi>Kings</hi> Regiment marched to the Counteſſe of <hi>Exceſters</hi> houſe, where a part of the Regiment had a ſharp conflict, and after they had gained that place, the enemies horſe gave them a hot &amp; deſperate charge, notwithſtanding they remained Maſters of the place: after this Serjeant Major <hi>Iohn Lilburne</hi> deſired Sir <hi>Iohn Meldrum</hi> to ſend him with a partee into the Iſland, which Sir <hi>Iohn</hi> waved, judging it a deſpereate ſervice, but at laſt the importunitie of the Major, and the reſolution of the Souldiers prevai<g ref="char:EOLhyphen"/>led: aſſoone as a ſmall party of them were over the wa<g ref="char:EOLhyphen"/>ter, the Enemie drew forth their horſe into the Iſland: and we haſted over the greateſt part of Colonell <hi>Kings</hi> Regi<g ref="char:EOLhyphen"/>ment,
+<pb n="4" facs="tcp:155062:3"/>and two Troopes of Horſes; the Enemie perceiving our Forces to draw themſelves betweene them and the Town, never charged, but haſted over <hi>Muſcom</hi> Bridge, we followed on, and beate the Enemie from the Fort, which commanded that paſſage, and poſſeſſed our ſelves of it; in view a conſiderable Force comming to their reliefe: then we intrenched our ſelves in the ſpittle, and made our approaches; the Enemie ſallied out and fell into our Trenches, the point being deſerted by Capt. <hi>Caudron,</hi> but Ca. <hi>Cambridge</hi> (who had done bravely in managing of <hi>Muſcom</hi> Bridge) enforced their ſudden retreat. When part of Sir <hi>Michael Hubbard</hi> Regiment were marching off the guard toward their Quarters at <hi>Balderton,</hi> the Enemie ſal<g ref="char:EOLhyphen"/>lied forth with nigh 100. horſe, finding them without light Matches fell upon them, tooke their Colours, and carried them priſoners into <hi>Newarke;</hi> two of the Lord <hi>Willoughbies</hi> Troopes, aſſigned for that Guard, looked on, but never offered to ingage.</p>
+            <p>After this, theſe <hi>Newark</hi> Horſe ſallied into the Iſland; the relator drew forth his own, and another Company of that Regiment, and tooke with him the Lord <hi>Willonghby</hi> his Regiment of Foot, and advanced into the Iſland; he commanded 20. Musquetiers out of his own companies, and deſired a proportion of the Lord <hi>Willoughbies</hi> to line the Hedges, ſo to prevent the enemies returne over the Bridge, although hee earneſtly importuned them, promiſing they ſhould go no further then himſelf, he could not obtain one man. When Sir <hi>Iohn Meldrum</hi> had Intelligence that the Horſe which were driven from <hi>New<g ref="char:EOLhyphen"/>arke</hi> over <hi>Muſcome</hi> Bridge, and thoſe which came to the releif, pillaged and plundred <hi>Leiceſterſhire,</hi> he ſent away all the Horſe and Dragoones which could be ſpared, un<g ref="char:EOLhyphen"/>der
+<pb n="5" facs="tcp:155062:3"/>the Command of Sir <hi>Edward Hartrop,</hi> who comming nigh the Enemies Quarters, ſent in a forlorne hope of a<g ref="char:EOLhyphen"/>bove 100. who fell in among them before they had an Alarm; and drave them forth, crying, Horſe and away, we are all cut off: the forlorne hope tooke divers priſo<g ref="char:EOLhyphen"/>ners in the chaſe, one of which was a Major, who was left behind at <hi>Melton Moberrie.</hi> The Captaines of Horſe ſeeing the Enemie in a confuſion, deſired Sir <hi>Iohn Hartrop</hi> to let them fall on; who anſwered them, his Commiſſion was not to fight, but upon apparent advantage, although they conceived this to be ſo, and the Souldiers crying, March, march, on, on, they could not get leave to en<g ref="char:EOLhyphen"/>gage; but upon Tueſday in the night returned toward <hi>Newarke,</hi> valiant Capt. <hi>Buff,</hi> with his brave Dragoones, whom Sir <hi>Iohn</hi> had commanded to ſecure a paſſe, were left to the enemies mercy, or to ſhift for themſelves. In this Retreate the Lord <hi>Willoughbies</hi> Horſes drew up, ſoun<g ref="char:EOLhyphen"/>ded a charge, and Captain St. <hi>George,</hi> bid Captain <hi>Lilburn</hi> draw up his Horſe &amp; fight, for the Lord <hi>Willoughby</hi> ſhould not be affronted by Coll. <hi>King:</hi> but the Capt. and other Gentlemen moderated that fury, and prevented the miſ<g ref="char:EOLhyphen"/>chiefe. What reaſon may be rendred that the Lord <hi>Grey</hi> his Horſes left Sir <hi>Iohn Hartrop</hi> &amp; returned to <hi>Leiceſter;</hi> the Relator knowes not. On Wedneſday noone Sir <hi>Iohn Mel<g ref="char:EOLhyphen"/>drum</hi> with his Councell of War, reſolved to ſend forth theſe Horſe and Dragoones againe, and would have con<g ref="char:EOLhyphen"/>ferred that Command upon Colonell <hi>Rocheſter,</hi> who mo<g ref="char:EOLhyphen"/>deſtly deſiring to be excuſed, it was confirmed upon Colonell <hi>Thorney,</hi> but before they could march, came cer<g ref="char:EOLhyphen"/>taine Intelligence that Prince <hi>Rupert</hi> was joyned with Sir <hi>Charles Lueas;</hi> which made that partee 8000. ſtrong, and that they were to quarter that night 8. miles from <hi>New<g ref="char:EOLhyphen"/>arke.</hi>
+               <pb n="6" facs="tcp:155062:4"/>Sir <hi>Iohn Meldrum</hi> was moved by Sir <hi>Michael Hubbard</hi> and others in the Councell of War to retreate to <hi>Lincoln,</hi> but he reſolved to draw all his foote into the Counteſſe of <hi>Exceſters</hi> houſe, and to ſend his horſe over <hi>Muſcom</hi> Bridge to bring in Proviſion. (It was demanded where the L. <hi>Wil<g ref="char:EOLhyphen"/>loughby</hi> was; the relator anſwered; he heard not of him after Wedneſday, it ſeems about that time the Lord <hi>Willoughbie</hi> rode to <hi>Gainsbrough.</hi>) The Enemie drew through <hi>Balder<g ref="char:EOLhyphen"/>ton</hi> in the morning, our horſe drew up upon <hi>Bekon</hi> hill, whence they might have diſcerned and engaged upon ad<g ref="char:EOLhyphen"/>vantage, but Sir <hi>Iohn Meldrum</hi> ordered them not to fight till they came within the reach of our Ordinance.</p>
+            <p>Then as ſoon as our horſes quitted the hill, the Enemy advanced thither, our horſes ſtanding in the valley nigh the Spittle facing the Enemy; as they were ready to cloſe, Sir <hi>John</hi> commands off the Derby-horſe, to guard the 200 Pyoneers and 400 Muſquetiers, which Sir <hi>John</hi> then ſent into the Iſland to make a Fort-Royall. The Enemy having drawn up two bodies of horſe againſt our two bo<g ref="char:EOLhyphen"/>dies, Colonell <hi>Roceſter</hi> led on the left diviſion, wherein were the 21 Captain <hi>Liburns,</hi> Captain <hi>Bethel</hi> and Captain <hi>Hunt,</hi> &amp;c. who fiercely charged the right wing of the Enemy, led by Prince <hi>Rupert,</hi> routed them, and drove them up the hill to their reſerve; but our right wing of horſe ran away, and would have preſſed in upon our own foot, had they not ſtood upon their guard. This Relator (after much intreaty, and many promiſes that they ſhould not ingage nor advance beyond the command of our Muſquets) prevailed with them, to rally and face the Ene<g ref="char:EOLhyphen"/>my, ſo that Colonell <hi>Roceſter</hi> made a ſafe and orderly re<g ref="char:EOLhyphen"/>treat, and according to Sir <hi>John Meldrums</hi> order, drew all the horſe, except 500. over the bridge, into the Iſland.
+<pb n="7" facs="tcp:155062:4"/>In this conflict, the Noble valiant Colonell <hi>Thorney</hi> was ſhot in the belly, which i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feared, will be his deaths wound; Captain <hi>Moody,</hi> and Captain Lieutenant <hi>Lilburn,</hi> were taken priſoners, amongſt others we took a great com<g ref="char:EOLhyphen"/>mander of theirs, who being much wounded were ſent into <hi>Newark,</hi> then the Enemie drew down halfe their horſe, and the greateſt part of their foot to force that Bridge, which was gallantly maintained by Colonel <hi>Kings</hi> company, and two or 3. of Yorkſhire companies, although hotly aſſaul<g ref="char:EOLhyphen"/>ted by the Welch Regiment, they were forced to retreat with much loſſe; all this time our Cannon plaied upon their Horſe, the Maſter Gunner with the great Piece did excellent execution the enemies expectation of the Bridge being fruſtrate, they drew out the <hi>Newark</hi> foot with a con<g ref="char:EOLhyphen"/>ſiderable ſtrength of Horſe, not giving Sir <hi>Iohn</hi> time to raiſe his fort Royall, poſſeſſed themſelves of the Iland, and intrenched themſelves there, to cut off our proviſion. The three companies of Colonell <hi>Kings,</hi> and the three <hi>Nottingham</hi> companies in the night, (Sir <hi>Iohn</hi> not know<g ref="char:EOLhyphen"/>ing thereof) quitted the Forte, and paſſed over <hi>Muſcom</hi> Bridge, brake up the Bridge, and ſo ſecured themſelves, and our horſes on that ſide, and taken <hi>Nottingham</hi> Colours &amp; nigh 20. Muſquetiers, as Col. <hi>Ayres,</hi> upon his reputation reported: the counſel of war reſolved that we ſhould retreat that night over <hi>Muſcom</hi> bridge, not imagining, that our gard there would have given us the ſlip, before the Enemie came to charge them. But perceiving the Enemie paſsing over their foot into the other ſide of the Iland nigh Mel<g ref="char:EOLhyphen"/>throp; and Norfolke Red-coats mutining, Sir <hi>Iohn</hi> ſent to the prince for a parley, which being accepted, Sir <hi>Michael Hubbard,</hi> and Sir <hi>Iohn Paygrave</hi> Colonels, about nine of the in the clocke at night went to treat, and by ſeven in the
+<pb n="8" facs="tcp:155062:5"/>morning brought the Articles which the Enemie had granted, to have Sir <hi>Iohns</hi> anent, and at ten of the clocke returned with the Princes Commiſſioners, for the Prince to ſigne.</p>
+            <list>
+               <item>I. That we ſhould leave all our Artillery, and Ammu<g ref="char:EOLhyphen"/>nition, and Fire-armes.</item>
+               <item>II. That all our foot Souldiers ſhould march away with their Swords, Pikes and Colours.</item>
+               <item>III. That all our Horſe-men and Dragoones ſhould march away with their Horſes, Swords and Colours.</item>
+               <item>IV. That all Officers and their Servants ſhould march away with their Horſes, Swords, piſtolls, moneyes, bagge and baggage.</item>
+               <item>V. That we ſhould have convoy for our ſafe conduct, two miles beyond the Princes out-moſt Quarters.</item>
+            </list>
+            <p>By twelve of the clock the Foote marching forth according to agreement, the enemie contrary to the Articles, tooke away their Colours, ſwords, and Pikes, fell to plunder the Officers, the relater repairing to the Convoy for ſecurity, meeting greateſt part of them galloping to plunder, and came away, holding it ſafer to truſt in God, then put confidence in Princes.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THe reporter Iudgeth the Enemy, being ioyned with the Newarkers, to be nigh <hi>3000.</hi> Foot, and Dragoones, and <hi>4000.</hi> Horſe, without Artillery, and that we have loſt two Morter Pecces, one Demy Cannon, one Sacre, ſeven or eight Drakes, Armes for <hi>3000.</hi> and much Ammunition.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Printed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
